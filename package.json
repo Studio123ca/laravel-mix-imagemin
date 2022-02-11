@@ -1,0 +1,27 @@
+{
+  "name": "laravel-mix-imagemin",
+  "version": "1.0.3",
+  "description": "Laravel Mix imagemin plugin",
+  "keywords": [
+    "laravel mix",
+    "mix",
+    "imagemin"
+  ],
+  "main": "index.js",
+  "repository": "https://github.com/CupOfTea696/laravel-mix-imagemin",
+  "author": "Frankie Wittevrongel <frankie@cupoftea.io>",
+  "contributors": [
+    {
+      "name": "Ryan Weber",
+      "url": "https://ryan-weber.com"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CupOfTea696/laravel-mix-imagemin/issues"
+  },
+  "homepage": "https://github.com/CupOfTea696/laravel-mix-imagemin#readme",
+  "dependencies": {
+    "multimatch": "^4.0.0"
+  }
+}
